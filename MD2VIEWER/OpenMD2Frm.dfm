@@ -563,6 +563,7 @@ object OpenMD2Form: TOpenMD2Form
     0000000000000000000000000000000000000000000000000000000000000000
     000000000000}
   OldCreateOrder = False
+  Position = poMainFormCenter
   ShowHint = True
   OnClose = FormClose
   OnCloseQuery = FormCloseQuery
