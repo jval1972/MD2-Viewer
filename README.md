@@ -1,8 +1,8 @@
-# DoomViewer
-DoomViewer is a Windows application that enables you to freely navigate inside maps of games Doom, Doom2, Heretic, Hexen and Strife
+# MD2Viewer
+MD2Viewer is a Windows application that pcan view md2 (Quake2) models
 
 ## Features
-Freely navigate inside the maps using first person view
+Freely navigate around the model
 
 Export screenshots in image files
 
