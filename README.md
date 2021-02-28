@@ -1,5 +1,5 @@
 # MD2Viewer
-MD2Viewer is a Windows application that pcan view md2 (Quake2) models
+MD2Viewer is a Windows application that can view md2 (Quake2) models
 
 ## Features
 Freely navigate around the model
