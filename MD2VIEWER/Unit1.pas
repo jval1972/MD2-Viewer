@@ -256,7 +256,7 @@ begin
 end;
 
 procedure TModelViewerScene.DrawLoop;
-var 
+var
   i: integer;
 begin
   for i := 0 to Surfaces.Count - 1 do
@@ -312,7 +312,7 @@ begin
 end;
 
 procedure TDXViewerForm.DXTimerTimer(Sender: TObject; LagCount: Integer);
-var 
+var
   cs: TCriticalSection;
 begin
   cs := TCriticalSection.Create;
@@ -1133,7 +1133,7 @@ begin
 end;
 
 procedure TDXViewerForm.FormDestroy(Sender: TObject);
-var 
+var
   i: integer;
 begin
   DXInput.Keyboard.Enabled := False;
@@ -1527,7 +1527,7 @@ begin
     if DXDraw.CanFocus then
       DXDraw.SetFocus
 end;
-  
+
 procedure TDXViewerForm.FormShow(Sender: TObject);
 begin
   AdjustFocus;

@@ -72,7 +72,7 @@ resourceString
   rsExtBMP = '.bmp';
   rsExtPPM = '.ppm';
   rsExtJPG = '.jpg';
-  rsExtTIF = '.tif';                 
+  rsExtTIF = '.tif';
   rsExtPCX = '.pcx';
   rsExtM8  = '.m8';
   rsExtTGA = '.tga';

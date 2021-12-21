@@ -325,7 +325,7 @@ begin
       CanClose := false;
       exit;
     end;
-    
+
     if (UpperCase(ExtractFileExt(ModelEdit.Text)) <> UpperCase(rsExtMD2)) and
 {$IFNDEF NO_MODELX}
        (UpperCase(ExtractFileExt(ModelEdit.Text)) <> UpperCase(rsExtX)) and
